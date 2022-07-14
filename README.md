@@ -6,5 +6,5 @@ A fan turns on if the humidity exceeds 70%. A blue RGB strips activates if the d
 
 ## Final Grade Achieved: 1.1
 
-# Project Video
+## Project Video
 My project can be seen on this Youtube video link: https://www.youtube.com/watch?v=uNfgTEPXyVc&t
